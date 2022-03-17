@@ -20,4 +20,4 @@
   
 </p>  
 
-[![Paulo Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=ppiresdev)](https://github.com/anuraghazra/github-readme-stats)
+![Paulo Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=ppiresdev&show_icons=true&theme=dark)
