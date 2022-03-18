@@ -20,4 +20,4 @@
   
 </p>  
 
-![Paulo Pires GitHub stats](https://github-readme-stats.vercel.app/api?username=ppiresdev&show_icons=true&theme=dark)
+![Paulo Pires's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppiresdev&theme=dark&show_icons=true)
