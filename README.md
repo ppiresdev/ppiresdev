@@ -40,6 +40,4 @@
 
 ## Repositórios Importantes
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppiresdev&repo=pequeno-mercado&theme=dark)](https://github.com/ppiresdev/pequeno-mercado)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppiresdev&repo=curriculum-vitae&theme=dark)](https://github.com/ppiresdev/curriculum-vitae)
