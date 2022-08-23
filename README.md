@@ -1,6 +1,6 @@
 ## Olá! Sou o Paulo Pires
 
-- 🔭 Atualmente sou estudante do programa Full Stack Web Developer na GrowDev (https://www.growdev.com.br/)
+- 🔭 Atualmente trainee na Growdev na área de desenvolvimento de software e faço a formação Full Stack Web Developer na GrowDev (https://www.growdev.com.br/)
 - :tropical_fish: Hobbies: ler, música, atividade física
 - 🌱 Aprendendo Html, CSS, JavaScript, TypeScript, React
 - :nerd_face: Experiências profissionais: atuo como professor particular de matemática e raciocínio lógico para concursos públicos. Já trabalhei numa empresa pública da cidade de Juiz de Fora - MG. Já estudei algumas linguagens de programação como Java, Python, C# e PHP
